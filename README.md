@@ -19,9 +19,10 @@
 </div>
 
 # My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=whoisimai&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=whoisimai&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoIsImai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=whoisimai&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=whoisimai&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
