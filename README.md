@@ -19,8 +19,8 @@
 </div>
 
 # My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=whoIsImai&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=whoIsImai&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=whoisimai&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=whoisimai&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoIsImai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
@@ -39,5 +39,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoIsImai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whoisimai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
 </div>
