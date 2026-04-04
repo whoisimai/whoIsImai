@@ -3,6 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/south_africa/whoisimai.svg)](https://user-badge.committers.top/south_africa/whoisimai)
+![Profile Views](https://komarev.com/ghpvc/?username=whoisimai&color=34eb5c&style=for-the-badge&label=VISITORS)
+
+
 - **React** & **React Native** for building interactive and responsive apps.
 - **Node.js** & **TypeScript** for backend and API development.
 - **C#(ASP.NET)** & **Python** for enterprise-level applications.
