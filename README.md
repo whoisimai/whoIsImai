@@ -4,7 +4,6 @@
 </div>
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/whoisimai.svg)](https://user-badge.committers.top/south_africa/whoisimai)
-![Profile Views](https://komarev.com/ghpvc/?username=whoisimai&color=34eb5c&style=for-the-badge&label=VISITORS)
 
 
 - **React** & **React Native** for building interactive and responsive apps.
