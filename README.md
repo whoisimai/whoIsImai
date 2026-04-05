@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Banner" />
 </div>
 
-<h1 align="center">
-  Hey, I'm Tlhogi
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,30:00D9FF,70:00CED1,100:001f3f&height=250&section=header&text=👨🏽‍💻%20Tlhogi%20Matlhabe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SYSTEMS%20ENGINEER%20|%20SOFTWARE%20ENGINEER%20|%20CLOUD%20ARCHITECT&descAlignY=55&descSize=16&descAlign=50" width="100%" />
+</div>
 
 <p align="center">
   <b>Full-Stack Developer · Building applications that solve real-world problems</b>
