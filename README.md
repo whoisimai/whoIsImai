@@ -99,6 +99,22 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
 <div align="center">
   <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=whoisimai&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
   <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=whoisimai&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisimai&layout=compact&hide_border=true&bg_color=0d1117&title_color=34eb5c&text_color=13e065&langs_count=8" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whoisimai&theme=nord_dark&utcOffset=2" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  
 </div>
 
 <br/>
