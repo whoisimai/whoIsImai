@@ -39,7 +39,7 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
 > Node.js · TypeScript · JavaScript · Express.js · C# (ASP.NET) · Python
 
 **Databases & Caching**
-> MongoDB · MySQL · Firebase · Redis
+> MongoDB · MySQL · Firebase · Redis  ·  Supabase  ·  Firebase (Firestore)
 
 **Auth & Security**
 > JWT · OAuth (Google Sign-In)
