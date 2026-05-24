@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,30:00D9FF,70:00CED1,100:001f3f&height=250&section=header&text=👨🏽‍💻%20Tlhogi%20Matlhabe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SYSTEMS%20DESIGN%20|%20SOFTWARE%20ENGINEER%20|%20CLOUD%20ENGINEER&descAlignY=55&descSize=16&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,30:00D9FF,70:00CED1,100:001f3f&height=250&section=header&text=👨🏽‍💻%20Tlhogi%20Matlhabe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SYSTEMS%20DESIGN%20|%20SOFTWARE%20ENGINEER%20|%20CLOUD%20ENGINEER|%20AI%20ENGINEER&descAlignY=55&descSize=16&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
@@ -111,7 +111,7 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whoisimai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoIsImai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
 </div>
 
 ---
