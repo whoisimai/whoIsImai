@@ -101,17 +101,13 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
   <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=whoisimai&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
 
 </div>
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WhoIsImai&layout=compact&theme=github_dark&title_color=00A3FF&text_color=00A3FF&icon_color=00A3FF&bg_color=0D1117&border_color=1F2937"
-  height="220"
-/>
   
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhoIsImai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisimai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
 </div>
 
 ---
