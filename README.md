@@ -102,7 +102,7 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
 
 </div>
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoisimai&layout=compact&theme=github_dark&title_color=00A3FF&text_color=00A3FF&icon_color=00A3FF&bg_color=0D1117&border_color=1F2937"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WhoIsImai&layout=compact&theme=github_dark&title_color=00A3FF&text_color=00A3FF&icon_color=00A3FF&bg_color=0D1117&border_color=1F2937"
   height="220"
 />
   
