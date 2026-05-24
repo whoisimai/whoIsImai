@@ -101,8 +101,10 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
   <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=whoisimai&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoisimai&layout=compact&theme=github_dark&title_color=00A3FF&text_color=00A3FF&icon_color=00A3FF&bg_color=0D1117&border_color=1F2937"
+  height="220"
+/>
   
 </div>
 
