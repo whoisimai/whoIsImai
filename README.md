@@ -53,7 +53,7 @@ Full-stack developer based in **South Africa**, focused on building scalable, pr
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python,html,css,react,electron,tailwind,nodejs,express,dotnet,mongodb,mysql,firebase,redis,aws,gcp,vercel,docker,githubactions,git,github,cisco)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python,html,css,react,electron,tailwind,nodejs,express,dotnet,mongodb,mysql,firebase,redis,aws,gcp,vercel,docker,githubactions,git,github,mysql)](https://skillicons.dev)
 </div>
 
 ---
