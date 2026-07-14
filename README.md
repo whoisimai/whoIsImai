@@ -1,94 +1,125 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20•%20Cloud%20•%20FinTech&descAlignY=57&descSize=18" width="100%" />
+Software Engineer from South Africa building secure backend systems, cloud-native applications, and AI-powered software. 
+
+[Portfolio](https://tlhogimatlhabe.co.za) •
+[LinkedIn](www.linkedin.com/in/am-tlhogi)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=whoisimai&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,30:0070F3,70:00BFFF,100:001f3f&height=250&section=header&text=Tlhogi%20Matlhabe&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20.NET%20•%20Cloud%20•%20FinTech&descAlignY=56&descSize=18" width="100%" />
-</div>
+# About Me
 
-<p align="center">
-  <b>Full-Stack Developer · Building applications that solve real-world problems</b>
+I'm a software engineer passionate about building products that solve real-world problems.
+
+My interests are focused on:
+
+- FinTech & Enterprise Software
+- Backend Engineering
+- Cloud Infrastructure
+- Artificial Intelligence
+- System Design
+
+I'm currently transitioning deeper into enterprise software development while expanding my expertise in **.NET, Azure, SQL Server, distributed systems, and secure API development**.
+
+---
+
+# Current Focus
+
+I'm currently learning and building around:
+
+- ASP.NET Core
+- Azure
+- SQL Server
+- Clean Architecture
+- Docker
+- Redis
+- Distributed Systems
+- FinTech Systems
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css"/>
 </p>
 
-<p align="center">
-  <a href="https://user-badge.committers.top/south_africa/whoisimai">
-    <img src="https://user-badge.committers.top/south_africa/whoisimai.svg" alt="Top Committer - South Africa" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=whoisimai&color=34eb5c&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,githubactions,git,github,vercel"/>
 </p>
 
 ---
 
-## About Me
-
-Full-stack developer based in **South Africa**, focused on building scalable, production-ready applications from mobile to enterprise. I enjoy working across the entire stack from crafting smooth UIs to designing robust backend architectures.
-
-- &nbsp;Currently building full-stack web & mobile apps
-- &nbsp;Always exploring cloud infrastructure and system design
-- &nbsp;Fun fact: I automate everything I can, including keeping my servers awake
-
----
-
-## What I Work With
-
-**Frontend**
-> React · React Native · Expo · Electron.js · TailwindCSS · React Router · HTML5 · CSS3
-
-**Backend & APIs**
-> Node.js · TypeScript · JavaScript · Express.js · C# (ASP.NET) · Python
-
-**Databases & Caching**
-> MongoDB · MySQL · Firebase · Redis  ·  Supabase  ·  Firebase (Firestore)
-
-**Auth & Security**
-> JWT · OAuth (Google Sign-In)
-
-**Cloud & DevOps**
-> AWS · Google Cloud · Render · Vercel · Docker · GitHub Actions
-
----
-
-## Tech Stack
+# GitHub Stats
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python,html,css,react,electron,tailwind,nodejs,express,dotnet,mongodb,mysql,firebase,redis,aws,gcp,vercel,docker,githubactions,git,github,mysql)](https://skillicons.dev)
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whoisimai&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=whoisimai&theme=dark&show_icons=true&count_private=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" width="49%" />
-  
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=whoisimai&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=fff&border=fff&background=0d1117" width="49%" />
+<img width="48%" src="https://streak-stats.demolab.com?user=whoisimai&theme=github-dark&hide_border=true"/>
 
 </div>
-  
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisimai&bg_color=0d1117&color=f75c7e&line=79ff97&point=ffffff&area=true&area_color=f75c7e&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
-</div>
-
----
-
-## Dev Quote of the Day
+<br>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoisimai&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
+# What I'm Looking For
+
+I'm actively interested in opportunities involving:
+
+- Backend Software Engineering
+- Enterprise Software
+- FinTech
+- Cloud Engineering
+- Distributed Systems
+
+Location:
+
+🇿🇦 South Africa (Open to Hybrid & Remote)
+
+---
+
+# Let's Connect
+
+If you'd like to collaborate, discuss software engineering, AI, cloud technologies, or FinTech, feel free to reach out.
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
-  <br/>
-  <i>Let's build something great, feel free to explore my repos or reach out!</i>
+
+[Portfolio](https://tlhogimatlhabe.co.za)
+
+[LinkedIn](www.linkedin.com/in/am-tlhogi)
 </div>
