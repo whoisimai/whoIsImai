@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20•%20Cloud%20•%20FinTech&descAlignY=57&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20•%20Cloud%20•%20FAI&descAlignY=57&descSize=18" width="100%" />
 Software Engineer from South Africa building secure backend systems, cloud-native applications, and AI-powered software. 
 
 [Portfolio](https://tlhogimatlhabe.co.za) •
