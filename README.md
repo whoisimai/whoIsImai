@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20•%20Cloud%20•%20AI&descAlignY=57&descSize=18" width="100%" />
-Software Engineer from South Africa building secure backend systems, cloud-native applications, and AI-powered software. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=57&descSize=18" width="100%" />
+
+### Software Engineer from South Africa building backend systems, cloud-native applications, and AI-powered software.
 
 [Portfolio](https://tlhogimatlhabe.co.za) •
-[LinkedIn](www.linkedin.com/in/am-tlhogi)
+[LinkedIn](https://www.linkedin.com/in/am-tlhogi)
 
 <br>
 
@@ -12,34 +13,60 @@ Software Engineer from South Africa building secure backend systems, cloud-nativ
 
 </div>
 
+---
+
 # About Me
 
-I'm a software engineer passionate about building products that solve real-world problems.
+I'm a software engineer who enjoys taking real-world problems and turning them into software.
 
-My interests are focused on:
+My main interests sit at the intersection of **backend engineering, cloud infrastructure, enterprise software, and AI**.
 
-- FinTech & Enterprise Software
-- Backend Engineering
-- Cloud Infrastructure
-- Artificial Intelligence
-- System Design
+I'm particularly interested in building systems that are reliable, secure, scalable, and actually useful beyond a demo.
 
-I'm currently transitioning deeper into enterprise software development while expanding my expertise in **.NET, Azure, SQL Server, distributed systems, and secure API development**.
+Currently, I'm developing deeper expertise in **.NET, Azure, SQL Server, distributed systems, secure APIs, and software architecture** while continuing to experiment with AI and emerging technologies.
+
+---
+
+# What I Build
+
+I like building projects that force me to learn something rather than simply following tutorials.
+
+### Backend & Infrastructure
+
+* **Caching Proxy**: A C#/.NET reverse proxy with Redis caching, Docker support, configurable upstream targets, and a standalone CLI.
+* **Render Keep-Alive**: An open-source GitHub Actions workflow that periodically pings Render services to prevent inactivity-related cold starts.
+* **Cloud-backed APIs**: REST APIs integrating authentication, databases, object storage, third-party services, and payment systems.
+
+### AI & Developer Tools
+
+* **Unity MCP Server**: An open-source Node.js MCP server using WebSockets to allow AI/LLM workflows to interact with Unity.
+* Experimenting with **local LLMs, MCP servers, AI agents, and developer tooling**.
+
+### Products
+
+* **Restly**: A room-rental platform focused on making it easier for tenants and landlords to connect.
+* Various experiments around **FinTech, creator tools, AI applications, and real-world business problems**.
+
+> I learn best by building, breaking things, figuring out why they broke, and building them better.
 
 ---
 
 # Current Focus
 
-I'm currently learning and building around:
+I'm currently building deeper expertise in:
 
-- ASP.NET Core
-- Azure
-- SQL Server
-- Clean Architecture
-- Docker
-- Redis
-- Distributed Systems
-- FinTech Systems
+* ASP.NET Core
+* C# / .NET
+* Azure
+* SQL Server
+* REST API Design
+* Clean Architecture
+* Docker
+* Redis
+* Distributed Systems
+* Cloud Infrastructure
+* Secure Software Development
+* Applied AI
 
 ---
 
@@ -63,7 +90,7 @@ I'm currently learning and building around:
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
-## Databases
+## Databases & Storage
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase"/>
@@ -77,7 +104,24 @@ I'm currently learning and building around:
 
 ---
 
-# GitHub Stats
+# Areas I'm Interested In
+
+I'm especially interested in building software around:
+
+* **Backend Engineering**
+* **Enterprise Software**
+* **FinTech**
+* **Cloud Infrastructure**
+* **Distributed Systems**
+* **Artificial Intelligence**
+* **Developer Tools**
+* **Real-world business problems**
+
+I'm particularly interested in opportunities where I can work on systems that have real users, real constraints, and real impact.
+
+---
+
+# GitHub
 
 <div align="center">
 
@@ -87,39 +131,27 @@ I'm currently learning and building around:
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoisimai&theme=github-compact&hide_border=true"/>
-
-</div>
-
 ---
 
 # What I'm Looking For
 
-I'm actively interested in opportunities involving:
+I'm open to opportunities involving:
 
-- Backend Software Engineering
-- Enterprise Software
-- FinTech
-- Cloud Engineering
-- Distributed Systems
+**Backend Software Engineering • .NET • Cloud • Enterprise Software • FinTech • AI**
 
-Location:
+Based in **South Africa** and open to **hybrid and remote opportunities**.
 
-🇿🇦 South Africa (Open to Hybrid & Remote)
+I'm also open to collaborating with developers, founders, startups, and businesses on interesting software projects.
 
 ---
 
-# Let's Connect
+# Let's Build Something
 
-If you'd like to collaborate, discuss software engineering, AI, cloud technologies, or FinTech, feel free to reach out.
+If you're working on a problem involving software, AI, cloud infrastructure, or backend systems, I'd be happy to connect.
 
 <div align="center">
 
-[Portfolio](https://tlhogimatlhabe.co.za)
+[Portfolio](https://tlhogimatlhabe.co.za) •
+[LinkedIn](https://www.linkedin.com/in/am-tlhogi)
 
-[LinkedIn](www.linkedin.com/in/am-tlhogi)
 </div>
