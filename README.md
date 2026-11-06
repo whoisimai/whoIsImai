@@ -1,157 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=57&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Founder%20of%20TLH%20Labs&descAlignY=57&descSize=18" width="100%" alt="Tlhogi Matlhabe — Software Engineer and Founder of TLH Labs" />
 
-### Software Engineer from South Africa building backend systems, cloud-native applications, and AI-powered software.
+### Building useful software, exploring ideas, and learning along the way.
 
-[Portfolio](https://tlhogimatlhabe.co.za) •
-[LinkedIn](https://www.linkedin.com/in/am-tlhogi)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=whoisimai&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+[Portfolio](https://tlhogimatlhabe.co.za/) · [TLH Labs](https://www.tlhlabs.co.za/) · [LinkedIn](https://www.linkedin.com/in/am-tlhogi) · [Writing](https://medium.com/@whoisimai)
 
 </div>
 
----
+## Hey, I'm Tlhogi
 
-# About Me
+I'm a software engineer from South Africa and the founder of **[TLH Labs](https://www.tlhlabs.co.za/)**. I build products, backend systems, and developer tools, with a particular interest in AI and cloud technologies.
 
-I'm a software engineer who enjoys taking real-world problems and turning them into software.
+I enjoy taking an idea from “could this work?” to something people can use. Sometimes that means building an API or a web app; other times it means experimenting with AI agents, Unity, or a tool that makes development easier.
 
-My main interests sit at the intersection of **backend engineering, cloud infrastructure, enterprise software, and AI**.
+I learn best by building, breaking things, figuring out why they broke, and building them better. Having fun with the process matters to me, too.
 
-I'm particularly interested in building systems that are reliable, secure, scalable, and actually useful beyond a demo.
+## What I'm building at TLH Labs
 
-Currently, I'm developing deeper expertise in **.NET, Azure, SQL Server, distributed systems, secure APIs, and software architecture** while continuing to experiment with AI and emerging technologies.
+TLH Labs is a technology company based in South Africa, focused on turning ideas into useful products. It's where I bring together product development, software, AI, cloud technologies, and experiments with immersive experiences.
 
----
+The approach is simple: **think, build, test, evolve.**
 
-# What I Build
+| Product | What it's for | Status |
+| --- | --- | --- |
+| **[Onstreak](https://onstreak.tlhlabs.co.za/)** | Fitness tracking and analytics to help people work towards their health and wellness goals. | Live |
+| **Reach** | An AI-powered content creation system to help creators plan, create, and grow consistently. | In development |
+| **Restly** | A room-rental platform focused on connecting tenants and landlords. | Upcoming |
 
-I like building projects that force me to learn something rather than simply following tutorials.
+Alongside our own products, TLH Labs offers **websites and web apps, mobile apps, AI solutions, and automation** for businesses.
 
-### Backend & Infrastructure
+[Explore TLH Labs →](https://www.tlhlabs.co.za/)
 
-* **Caching Proxy**: A C#/.NET reverse proxy with Redis caching, Docker support, configurable upstream targets, and a standalone CLI.
-* **Render Keep-Alive**: An open-source GitHub Actions workflow that periodically pings Render services to prevent inactivity-related cold starts.
-* **Cloud-backed APIs**: REST APIs integrating authentication, databases, object storage, third-party services, and payment systems.
+## Selected engineering projects
 
-### AI & Developer Tools
+A few projects that reflect how I like to learn and solve problems:
 
-* **Unity MCP Server**: An open-source Node.js MCP server using WebSockets to allow AI/LLM workflows to interact with Unity.
-* Experimenting with **local LLMs, MCP servers, AI agents, and developer tooling**.
+- **[Caching Proxy](https://github.com/whoisimai/Caching-proxy)** — A C# / ASP.NET caching proxy that forwards requests to an upstream server and reuses cached responses. A practical exploration of backend performance and caching.
+- **[Unity MCP](https://github.com/whoisimai/unity-mcp)** — An open-source MCP project for connecting AI workflows with Unity. Exploring how AI tools can work with interactive development environments.
+- **[Image Processing System](https://github.com/whoisimai/Image-Processing-System)** — A backend for authenticated image uploads, storage, and retrieval, using Firebase authentication and AWS S3.
+- **[Render Keep-Alive](https://github.com/whoisimai/send-request)** — A Python script and GitHub Actions workflow that periodically pings a Render-hosted service, built to address inactivity-related cold starts.
 
-### Products
+## Technical focus
 
-* **Restly**: A room-rental platform focused on making it easier for tenants and landlords to connect.
-* Various experiments around **FinTech, creator tools, AI applications, and real-world business problems**.
+My main engineering focus is **backend development**, especially **C# / .NET, ASP.NET Core, REST APIs, and SQL Server**. I'm developing deeper expertise in **Azure, Docker, Redis, secure software design, and distributed systems**.
 
-> I learn best by building, breaking things, figuring out why they broke, and building them better.
+I also work with JavaScript / TypeScript and Python across web projects and developer tooling. My experiments include local LLMs, MCP servers, AI agents, and 3D / immersive experiences.
 
----
+I'm interested in the decisions behind useful software: how it behaves, how it's secured, how it handles failure, and how it can be improved after people start using it.
 
-# Current Focus
+## Let's connect
 
-I'm currently building deeper expertise in:
+- **Engineering opportunities:** Open to backend, .NET, cloud, and applied AI roles, including hybrid and remote opportunities.
+- **Business projects:** For websites, apps, AI solutions, or automation, connect through [TLH Labs](https://www.tlhlabs.co.za/).
+- **Collaboration:** Happy to connect with developers, founders, and people exploring interesting problems.
 
-* ASP.NET Core
-* C# / .NET
-* Azure
-* SQL Server
-* REST API Design
-* Clean Architecture
-* Docker
-* Redis
-* Distributed Systems
-* Cloud Infrastructure
-* Secure Software Development
-* Applied AI
+Based in **South Africa**.
 
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,ts,js,python,html,css"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-## Databases & Storage
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase"/>
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,githubactions,git,github,vercel"/>
-</p>
-
----
-
-# Areas I'm Interested In
-
-I'm especially interested in building software around:
-
-* **Backend Engineering**
-* **Enterprise Software**
-* **FinTech**
-* **Cloud Infrastructure**
-* **Distributed Systems**
-* **Artificial Intelligence**
-* **Developer Tools**
-* **Real-world business problems**
-
-I'm particularly interested in opportunities where I can work on systems that have real users, real constraints, and real impact.
-
----
-
-# GitHub
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whoisimai&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=whoisimai&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# What I'm Looking For
-
-I'm open to opportunities involving:
-
-**Backend Software Engineering • .NET • Cloud • Enterprise Software • FinTech • AI**
-
-Based in **South Africa** and open to **hybrid and remote opportunities**.
-
-I'm also open to collaborating with developers, founders, startups, and businesses on interesting software projects.
-
----
-
-# Let's Build Something
-
-If you're working on a problem involving software, AI, cloud infrastructure, or backend systems, I'd be happy to connect.
-
-<div align="center">
-
-[Portfolio](https://tlhogimatlhabe.co.za) •
-[LinkedIn](https://www.linkedin.com/in/am-tlhogi)
-
-</div>
+[Portfolio](https://tlhogimatlhabe.co.za/) · [LinkedIn](https://www.linkedin.com/in/am-tlhogi) · [TLH Labs](https://www.tlhlabs.co.za/)
