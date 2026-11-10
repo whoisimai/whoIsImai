@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:2563EB,70:3B82F6,100:1E293B&height=240&section=header&text=Tlhogi%20Matlhabe&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Founder%20of%20TLH%20Labs&descAlignY=57&descSize=18" width="100%" alt="Tlhogi Matlhabe — Software Engineer and Founder of TLH Labs" />
 
-<img src="nagare/nagare.svg" width="100%" alt="nagare" />
-
 ### Building useful software, exploring ideas, and learning along the way.
 
 [Portfolio](https://tlhogimatlhabe.co.za/) · [TLH Labs](https://www.tlhlabs.co.za/) · [LinkedIn](https://www.linkedin.com/in/am-tlhogi) · [Writing](https://medium.com/@whoisimai)
@@ -60,3 +58,8 @@ I'm interested in the decisions behind useful software: how it behaves, how it's
 Based in **South Africa**.
 
 [Portfolio](https://tlhogimatlhabe.co.za/) · [LinkedIn](https://www.linkedin.com/in/am-tlhogi) · [TLH Labs](https://www.tlhlabs.co.za/)
+
+### My Streak or something:
+
+
+<img src="nagare/nagare.svg" width="100%" alt="nagare" />
