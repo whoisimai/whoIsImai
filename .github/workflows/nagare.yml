@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: monex00/nagare@main
         with:
-          theme: paper #night # or paper
+          theme: night #night # or paper
           # personal token for private activity if the secret exists, else the built-in one
           token: ${{ secrets.NAGARE_TOKEN || github.token }}
       - run: |
