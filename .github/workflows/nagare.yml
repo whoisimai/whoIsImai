@@ -11,14 +11,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: monex00/nagare@main
+      - name: Draw light graph
+        uses: monex00/nagare@main
         with:
-          theme: paper #night # or paper
+          theme: paper
+          output: nagare/nagare-paper.svg
           # personal token for private activity if the secret exists, else the built-in one
           token: ${{ secrets.NAGARE_TOKEN || github.token }}
+      - name: Draw dark graph
+        uses: monex00/nagare@main
+        with:
+          theme: night
+          output: nagare/nagare-night.svg
+          token: ${{ secrets.NAGARE_TOKEN || github.token }}
       - run: |
+          cp nagare/nagare-paper.svg nagare/nagare.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add nagare/nagare.svg
+          git add nagare/nagare.svg nagare/nagare-paper.svg nagare/nagare-night.svg
           git diff --cached --quiet || git commit -m "Redraw nagare"
           git push
